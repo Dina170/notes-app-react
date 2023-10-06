@@ -32,40 +32,22 @@ This is a simple notes app built with React, React MDE, and Cloud Firebase. It a
 
 2. Navigate to the project directory:
 
-   Copy
-
    ```
    cd notes-app
    ```
 
-   ```
-
-   ```
-
 3. Install the dependencies:
-
-   Copy
 
    ```
    npm install
-   ```
-
-   ```
-
    ```
 
 4. Create a Firebase project and set up Cloud Firestore.
 5. Replace the Firebase configuration in `src/firebase.js` with your own Firebase project configuration.
 6. Start the development server:
 
-   Copy
-
    ```
    npm start
-   ```
-
-   ```
-
    ```
 
 7. Open your web browser and visit `http://localhost:3000` to view the app.
@@ -82,13 +64,13 @@ Contributions are welcome! If you have any suggestions, bug fixes, or new featur
 
 ## Screen Shots
 
-![s4.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9f2a386d-5491-4b82-8d30-c8a22fe45be5/781220c7-d0c1-46df-9e89-c66c29169804/s4.png)
+![s4.png](s4.png)
 
-![s1.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9f2a386d-5491-4b82-8d30-c8a22fe45be5/b744a19f-887c-4168-8453-3b753a7b4dcd/s1.png)
+![s1.png](s1.png)
 
-![s2.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9f2a386d-5491-4b82-8d30-c8a22fe45be5/27ff92e2-532e-4f40-ab95-50455128c539/s2.png)
+![s2.png](s2.png)
 
-![s3.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9f2a386d-5491-4b82-8d30-c8a22fe45be5/3603f307-5b1c-4839-8caa-739354dcf2fb/s3.png)
+![s3.png](s3.png)
 
 ## Acknowledgements
 

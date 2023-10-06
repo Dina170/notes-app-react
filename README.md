@@ -20,15 +20,10 @@ This is a simple notes app built with React, React MDE, and Cloud Firebase. It a
 
 1. Clone the repository:
 
-   Copy
-
    ```
    git clone https://github.com/Dina170/notes-app-react.git
    ```
 
-   ```
-
-   ```
 
 2. Navigate to the project directory:
 
